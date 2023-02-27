@@ -1,0 +1,68 @@
+.custom-navbar {
+    height: 100px
+}
+.nav-right-actions {
+    width: 80px;
+}
+.custom-carousel-inner {
+    height: 70vh !important;
+}
+.connectWithInvestors {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.investorsImagee {
+    background: #915339;
+    padding: 50px 50px 50px 50px;
+    width: 526.65px;
+    height: 474.08px;
+    left: 0px;
+    top: 32.92px;
+}
+
+.investorsImage {
+    background: #C891A8;
+    padding: 50px 50px 50px 50px;
+    width: 526.65px;
+    height: 474.08px;
+    left: 802px;
+    top: 32.92px;
+}
+.internal_image {
+    padding: 50px 50px 50px 50px;
+}
+.InvestInSme {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.teams {
+    background: #F7FAFD;
+    padding: 15px;
+}
+.teams-header {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.internalCard {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: gray 10px;
+}
+
+.Explore {
+    background: #006DC0;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 64px;
+    gap: 80px;
+    width: 1352px;
+    height: 545.03px;
+
+}
+.exploreCard {
+   
+
+}
